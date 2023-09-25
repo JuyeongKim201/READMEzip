@@ -1,3 +1,5 @@
+출처: https://github.com/dvlab-research/LongLoRA/tree/main 
+
 [![Gradio](https://img.shields.io/badge/Gradio-Online%20Demo-blue)](https://9415315be10389c622.gradio.live)
 
 # LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models
