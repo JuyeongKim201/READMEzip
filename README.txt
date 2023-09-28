@@ -1,3 +1,9 @@
+[ README 자기소개 페이지 ]
+- https://github.com/Hitbee-dev/Hitbee-dev/tree/velog_skt
+- https://github.com/Bluuubery
+
+
+[ 프로젝트 페이지 ]
 출처: https://github.com/dvlab-research/LongLoRA/tree/main 
 
 [![Gradio](https://img.shields.io/badge/Gradio-Online%20Demo-blue)](https://9415315be10389c622.gradio.live)
